@@ -1,3 +1,4 @@
-# My Awesome Book
+# Codex Grymns
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The idea of this codex is to let you use the great miniatures from Hasslefree miniatures, and also some miniatures from other manufactures.
+
